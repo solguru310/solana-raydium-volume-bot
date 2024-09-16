@@ -1,13 +1,13 @@
-# How can I boost the volume of spl token in Raydium?
 # Raydium Volume Bot
+
+### <i>How can I boost the volume of spl token in Raydium?</i>
 
 This volume bot distribute SOL to multiple wallets and buy and sell with that distributed wallets permanently on the Raydium platform.
 
-## Contact Info
+## Contact me
 
-Telegram: @Takhi77
+Telegram: [@derricklee918](https://t.me/@derricklee918)
 
-You can always feel free to find me here for my help on other projects.
 
 ## Features
 
@@ -70,8 +70,8 @@ LOG_LEVEL=info               # Logging level (info, debug, error)
 ## Usage
 1. Clone the repository
 ```
-git clone https://github.com/skeleton1009/Solana-raydium-volume-bot.git
-cd raydium-volume-bot
+git clone https://github.com/derricklee918/Sol-Raydium-VolumeBot.git
+cd Sol-Raydium-VolumeBot
 ```
 2. Install dependencies
 ```
